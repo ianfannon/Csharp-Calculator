@@ -1,0 +1,12 @@
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\bin\Debug\Forms.exe.config
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\bin\Debug\Forms.exe
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\bin\Debug\Forms.pdb
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.Form1.resources
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.exe
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\Ian James Fannon\Documents\Visual Studio 2015\Projects\Calculator\Forms\bin\Debug\Forms.exe.config
+C:\Users\Ian James Fannon\Documents\Visual Studio 2015\Projects\Calculator\Forms\obj\Debug\Forms.exe
+C:\Users\Ian James Fannon\Documents\Visual Studio 2015\Projects\Calculator\Forms\obj\Debug\Forms.pdb
